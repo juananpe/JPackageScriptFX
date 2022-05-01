@@ -13,7 +13,7 @@ JAVA_VERSION=17
 MAIN_JAR="main-ui-$PROJECT_VERSION.jar"
 
 # Set desired installer type: "app-image", "rpm" or "deb".
-INSTALLER_TYPE=rpm
+INSTALLER_TYPE=deb
 
 echo "java home: $JAVA_HOME"
 echo "project version: $PROJECT_VERSION"
