@@ -35,7 +35,7 @@
 		    <version>${jmetro.version}</version>
             <exclusions>
                 <!-- The following exclusions are necessary to override all hard coded dependencies -->
-                <!-- on outdated or not needed external libaries -->
+                <!-- on outdated or not needed external libraries -->
                 <exclusion>
                     <groupId>org.controlsfx</groupId>
                     <artifactId>controlsfx</artifactId>
